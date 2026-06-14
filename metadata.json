@@ -1,0 +1,6 @@
+{
+  "name": "Olimpiadas Familiares",
+  "description": "App para organizar y compartir momentos de las Olimpiadas Familiares 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
